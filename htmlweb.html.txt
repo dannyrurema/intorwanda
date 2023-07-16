@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My News Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>My News Website</h1>
+    <!-- Navigation menu goes here -->
+  </header>
+  
+  <main>
+    <!-- News articles go here -->
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 My News Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+/* Add styling for your news website */
+
+// Add any JavaScript functionality you need for your website
+
